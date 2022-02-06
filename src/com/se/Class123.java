@@ -26,4 +26,11 @@ public void sub() {
 		element3.click();
 		driver.quit();
 	}
+
+
+   public void only() {
+       System.out.println("1 us");
+   }
+
+
 }
